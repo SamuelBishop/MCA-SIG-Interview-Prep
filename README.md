@@ -22,19 +22,21 @@ The focus for this week will be to install the `Python 3` programming language, 
 Git is a distributed version control system used for tracking changes in files and collaborating on coding projects. Git's main goals include speed, data integrity, and support for distributed, non-linear workflows. Version control, especially git, will be something you will run into often coding and this is a good thing to learn early on. If confused, just think of git the coder's version of Google Docs.
 
 After the initial download link you should be prompted with something like this:
-![Windows Git Installation 1](img/install_1.jpg)
-![Windows Git Installation 2](img/install_2.jpg)
+![Windows Git Installation 1](img/install_1.JPG)
+![Windows Git Installation 2](img/install_2.JPG)
 
-Use Vim -> Next
-Let Git Decide -> Next
+The following selections you should only need select next:
+    Use Vim
+    Let Git Decide
 
-![Windows Git Installation 3](img/install_3.jpg)
+![Windows Git Installation 3](img/install_3.JPG)
 
-Use the OpenSSL library -> Next
-Checkout Windows-style, commit Unix-style line endings -> Next
-Use MinTTY -> Next
-Default -> Git Credential Manager Core
-Enable file system caching -> Next
+The following selections you should only need select next:
+    Use the OpenSSL library
+    Checkout Windows-style, commit Unix-style line endings
+    Use MinTTY
+    Default set to Git Credential Manager Core
+    Enable file system caching
 
 open cmd admin (in macOs it will be terminal)
 git --version
@@ -54,7 +56,7 @@ Git Installation Guide Written by Git Developers
 Python is an interpreted, high-level and general-purpose programming language. Python's design philsophy emphasizes code readbility and is known as one of the best-first coding languages. As well as generally the language of coding interviews.
 
 After the initial download link you should be prompted with something like this:
-![Windows Python Code Installation 1](img/py_install_1.jpg)
+![Windows Python Code Installation 1](img/py_install_1.JPG)
 Make sure to elect to Add a PATH variable
 
 Finally, next through the installation process until completion.
@@ -69,16 +71,16 @@ After the initial download link you should be prompted with something like this:
 1. Accept License Agreement
 2. Select Destination Location
 3. Click next until you get to Select Additional Tasks Page. Check all of the boxes.
-![Windows VS Code Installation 1](img/vs_install_1.jpg)
+![Windows VS Code Installation 1](img/vs_install_1.JPG)
 4. Continue hitting next until completed installation.
 
 
 Installing the Python VS Code Extension and Executing Python Code:
 1. Right click on the MCA-SIG-Interview-Prep folder on your desktop and select "Open with Code"
-![Windows VS Code Installation 2](img/vs_install_2.jpg)
+![Windows VS Code Installation 2](img/vs_install_2.JPG)
 2. Search Python in the search box
 3. Click the first result. Should be the Python extension created by Microsoft.
-![Windows VS Code Installation 3](img/vs_install_3.jpg)
+![Windows VS Code Installation 3](img/vs_install_3.JPG)
 4. Navigate to the VS Code terminal and change directories to W1_introduction
 5. Enter "py hello_world.py" into the terminal
 

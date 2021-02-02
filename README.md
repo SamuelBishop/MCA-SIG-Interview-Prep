@@ -13,18 +13,76 @@ LEADER: Samuel Bishop
 The focus for this week will be to install the `Python 3` programming language, set up the `Visual Studio Code` `Integrated Development Environment (IDE)`, install the Python extension for VS Code, and solve the related coding question(s).
 
 ### Relevant Links:
-`VS Code`: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+`git`: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 `Python 3`: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+`VS Code`: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-#### Instruction Windows:
-```c#
-// Screenshots and walkthrough will go right here
-```
 
-#### Instruction MacOS:
-```c#
-// Screenshots and walkthrough will go right here
-```
+#### Git Installation Instructions:
+Git is a distributed version control system used for tracking changes in files and collaborating on coding projects. Git's main goals include speed, data integrity, and support for distributed, non-linear workflows. Version control, especially git, will be something you will run into often coding and this is a good thing to learn early on. If confused, just think of git the coder's version of Google Docs.
+
+After the initial download link you should be prompted with something like this:
+![Windows Git Installation 1](img/install_1.jpg)
+![Windows Git Installation 2](img/install_2.jpg)
+
+Use Vim -> Next
+Let Git Decide -> Next
+
+![Windows Git Installation 3](img/install_3.jpg)
+
+Use the OpenSSL library -> Next
+Checkout Windows-style, commit Unix-style line endings -> Next
+Use MinTTY -> Next
+Default -> Git Credential Manager Core
+Enable file system caching -> Next
+
+open cmd admin (in macOs it will be terminal)
+git --version
+navigate to your desktop using:
+    Windows: dir, cd
+    MacOs: ls, cd
+
+git clone https://github.com/SamuelBishop/MCA-SIG-Interview-Prep.git
+
+
+
+Git Installation Guide Written by Git Developers
+`Git's Installation guide`: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+
+#### Python 3 Installation Instructions:
+Python is an interpreted, high-level and general-purpose programming language. Python's design philsophy emphasizes code readbility and is known as one of the best-first coding languages. As well as generally the language of coding interviews.
+
+After the initial download link you should be prompted with something like this:
+![Windows Python Code Installation 1](img/py_install_1.jpg)
+Make sure to elect to Add a PATH variable
+
+Finally, next through the installation process until completion.
+
+
+#### VS Code Installation Instructions:
+Visual Studio Code is a free integrated development environment made by Microsoft. Some of its features include debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. It is the editor we will be using in this interest groups to solve our coding problems.
+
+After the initial download link you should be prompted with something like this:
+
+
+1. Accept License Agreement
+2. Select Destination Location
+3. Click next until you get to Select Additional Tasks Page. Check all of the boxes.
+![Windows VS Code Installation 1](img/vs_install_1.jpg)
+4. Continue hitting next until completed installation.
+
+
+Installing the Python VS Code Extension and Executing Python Code:
+1. Right click on the MCA-SIG-Interview-Prep folder on your desktop and select "Open with Code"
+![Windows VS Code Installation 2](img/vs_install_2.jpg)
+2. Search Python in the search box
+3. Click the first result. Should be the Python extension created by Microsoft.
+![Windows VS Code Installation 3](img/vs_install_3.jpg)
+4. Navigate to the VS Code terminal and change directories to W1_introduction
+5. Enter "py hello_world.py" into the terminal
+
+
 
 ## Week 2: Arrays and Strings               February 9, 2021
 

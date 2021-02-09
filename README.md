@@ -89,14 +89,14 @@ Installing the Python VS Code Extension and Executing Python Code:
   
   
 ## Week 2: Arrays and Strings               February 9, 2021  
-The focus for this week will be to review the most important aspects of the `behavioral interview` including creating accounts on relevant platforms like `LinkedIn` and `GitHub`, giving generalized `resume` tips, providing a sample `cover letter`, working on an `elevator pitch`, and providing an almost comprehensive list of behavioral questions in the form of [Behavioral Questions.txt](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).  
+The focus for this week will be to review the most important aspects of the `behavioral interview` including creating accounts on relevant platforms like `LinkedIn` and `GitHub`, giving generalized `resume` tips, providing a sample `cover letter`, working on an `elevator pitch`, and providing an almost comprehensive list of behavioral questions in the form of [Behavioral Questions.txt](https://github.com/SamuelBishop/MCA-SIG-Interview-Prep/blob/main/W2_Arrays_and_Strings/Behavioral%20Questions.txt).  
   
 Additionally, we will be addressing the important programming topic of `Big O Notation`, going over its function and usage. Then using the what we've learned about algorithmic runtime we will be applying to basic `array` and `string` problems to get a conceptual grasp as well as acclimatize members to coding interview style problems.  
   
 If you are bored with the level of difficulty - don't worry it will ramp up in the later weeks.  
     
 
-    
+
 ### Relevant Links:  
 To brush up on python:  
 `learnpython.org`: [https://www.learnpython.org/](https://www.learnpython.org/)  

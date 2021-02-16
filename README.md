@@ -107,3 +107,18 @@ Recommended Interview Book:
   
 Recommended Subscription Service for Coding Problems:  
 `AlgoExpert`: [https://www.algoexpert.io/product](https://www.algoexpert.io/product)  
+  
+  
+
+## Week 3: Recursion, Linked Lists and Hashtables               February 16, 2021  
+This week will be taking a closer look at the details of the `coding interview`. We will cover `whiteboarding`, the `google doc`, and the `Web IDE` styles. We will also talk about how to build up projects on a resume even as a underclassman by attending `hackathons`, contributing to `open source` projects, and going over some common technologies to look into in various project areas. 
+  
+Our programming topics section today will be the majority of the disccusion and will include  `Recursion`, `Linked Lists`, and `Hash Tables (~ Hash Maps)`. Throughout the examples we will use what we've learned about those programming concepts and apply this knowledge to at least one sample problem per topic.  
+  
+Additionally, the virtual career fair is next Wednesday. The SIG will be surveyed today to see if they would like to do informal mock interviews during next week's meeting.  
+    
+  
+  
+### Relevant Links:  
+Data Structures - Hash Tables (Gayle Laakmann McDowell):  
+`YouTube Video`: [https://www.youtube.com/watch?v=shs0KM3wKv8&t=307s](https://www.youtube.com/watch?v=shs0KM3wKv8&t=307s)  

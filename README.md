@@ -121,4 +121,49 @@ Additionally, the virtual career fair is next Wednesday. The SIG will be surveye
   
 ### Relevant Links:  
 Data Structures - Hash Tables (Gayle Laakmann McDowell):  
-`YouTube Video`: [https://www.youtube.com/watch?v=shs0KM3wKv8&t=307s](https://www.youtube.com/watch?v=shs0KM3wKv8&t=307s)  
+`YouTube Video`: [https://www.youtube.com/watch?v=shs0KM3wKv8&t=307s](https://www.youtube.com/watch?v=shs0KM3wKv8&t=307s)
+  
+  
+  
+## Week 4: Stacks and Queues               March 2, 2021  
+This week we will be looking at some of the different occupations (not cumlative) that one can have with Computer Science/Information Technologies/Computer Engineering education. Theses occupations include:  
+`Web Development`:  
++ `Front End Dev`  
++ `Back End Dev`  
++ `Database Engineer`  
++ `Full Stack Engineer`  
+  
+`Mobile Development`:  
++ `iOS Dev`  
++ `Android Dev`  
++ `Cross Platform Dev`  
+  
+`Desktop Applications Development`:  
++ `Game Design`  
+  
+`Data Science`:  
++ `Quantitative Analyst (Quant)`  
+  
+`Hardware`:  
++ `Electrical Engineer`  
++ `Design Engineer`  
++ `Computer Architect`  
++ `Firmware/Embedded Engineer`  
+  
+`Product Management (PM)`:  
++ `Product Manager`  
+  
+Our programming section today briefly covers the `stacks` and `queue` data structures. Potentially and example will be given. But more likely, you should work on these algoexpert practice problems by yourself:  
+- Balanced Brackets (was personally asked this at MS)  
+- Queue Construction (will only be ever asked to construct one)  
+- Extra: Cracking the coding interview problems 3.1-3.6  
+  
+  
+  
+### Relevant Links:  
+Stack in Python:  
+`geeksforgeeks article`: [https://www.geeksforgeeks.org/stack-in-python/](https://www.geeksforgeeks.org/stack-in-python/) 
+Queue in Python:  
+`geeksforgeeks article`: [https://www.geeksforgeeks.org/queue-in-python/](https://www.geeksforgeeks.org/queue-in-python/) 
+Cracking the Coding Interview PDF - (Gayle Laakmann McDowell):  
+`PDF`: [https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)

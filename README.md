@@ -158,12 +158,12 @@ Our programming section today briefly covers the `stacks` and `queue` data struc
 - Queue Construction (will only be ever asked to construct one)  
 - Extra: Cracking the coding interview problems 3.1-3.6  
   
-  
+
   
 ### Relevant Links:  
 Stack in Python:  
-`geeksforgeeks article`: [https://www.geeksforgeeks.org/stack-in-python/](https://www.geeksforgeeks.org/stack-in-python/) 
-Queue in Python:  
+`geeksforgeeks article`: [https://www.geeksforgeeks.org/stack-in-python/](https://www.geeksforgeeks.org/stack-in-python/)  
+Queue in Python:   
 `geeksforgeeks article`: [https://www.geeksforgeeks.org/queue-in-python/](https://www.geeksforgeeks.org/queue-in-python/) 
 Cracking the Coding Interview PDF - (Gayle Laakmann McDowell):  
 `PDF`: [https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)

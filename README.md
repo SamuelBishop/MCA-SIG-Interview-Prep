@@ -166,4 +166,23 @@ Stack in Python:
 Queue in Python:   
 `geeksforgeeks article`: [https://www.geeksforgeeks.org/queue-in-python/](https://www.geeksforgeeks.org/queue-in-python/) 
 Cracking the Coding Interview PDF - (Gayle Laakmann McDowell):  
+`PDF`: [https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)  
+  
+
+
+## Week 5: Trees               March 16, 2021  
+This week we will be looking at some of the opportunities available to you in order to learn how to contribute in the software field before you graduate. the different experiences covered will include `Undergraduate Research`, `Open-Source Project Contributions` and `Personal Projects`.  
+  
+Our programming section today briefly covers the basic `Tree` data structure. Here we will define what makes a tree, why they are useful, how to accomplish the different types of `Tree Traversals` and we will run through the `Min Tree` coding question. Extra tree related problems to look at include:  
+- Validate BST (AlgoExpert)  
+- BST Traversal (AlgoExpert)  
+- BST Construction (AlgoExpert)  
+- Find Closest Value in BST (AlgoExpert)
+  
+Next week we will cover red and black trees, graphs, and tries.   
+  
+### Relevant Links:  
+Binary Trees in Python:  
+`tutorialspoint article`: [https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm)  
+Cracking the Coding Interview PDF - (Gayle Laakmann McDowell):  
 `PDF`: [https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)
